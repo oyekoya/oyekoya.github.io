@@ -1,0 +1,146 @@
+/*  
+
+Theme Name: UCL Corporate Identity layout - Orange (Parent)
+
+Theme URI: http://www.ucl.ac.uk/isd/
+
+Description: UCL Wordpress template that corresponds with the university's corporate identity 
+
+Version: 3.0
+
+Author: UCL Web Services
+
+Author URI: http://www.ucl.ac.uk/isd/
+*/
+
+
+
+@charset "UTF-8";
+/* CSS Document */
+
+/*resetting superfluous CI styles*/
+#border-bottom{
+	display:none;
+}
+div.entry:hover{
+	background-color:transparent;
+}
+#sidebar ul li{
+	list-style-type:none;
+	margin-bottom:5px;
+}
+#sidebar ul li ul li{
+	margin-bottom:0;
+	list-style-type:disc;
+}
+#sidebar ul li input{
+	margin-bottom:5px;
+}
+textarea, pre, code, kbd, samp, var, tt{
+	width:100%;
+}
+
+#nav ul li, #nav ul li a:link, #nav .hlist ul li a:visited {
+	color:#fff;
+	font-size:1em;
+	font-weight:normal;
+}
+.hlist ul li:before{
+	content:none;
+}
+/*end reset*/
+
+/*WP specific styles*/
+.entry{
+	margin-bottom:30px;
+}
+.post .singleEntry{
+	border-bottom-width:0;
+}
+.postFooter{
+	background-color:#F66733;
+	padding:3px 3px 0 3px;
+}
+.entry h3{
+	margin-bottom:5px;
+}
+.commentHead{
+	font-weight:bold;
+}
+/*recent entries widget*/
+#sidebar .widget_recent_entries ul li{
+	list-style-type:disc;
+}
+.alignleft{
+	float:left;
+}
+.alignright{
+	float:right;
+}
+#searchPostContainer{
+	position:relative;
+	top:-20px;
+}
+#col3 h5{
+	font-weight:bold;
+	font-size:85%;
+	margin-bottom:10px;
+}
+/*end WP specific styles*/
+
+/* PRIMARY COLOUR */
+
+#tabs h3.heading a,
+.sideBar h2,
+h6.vlist,
+.entry a,
+.invFoot a,
+.cast-container a h4,
+.publicationdate,
+.eventdates, p.location,
+.newsiteminfopublicationdate,
+.default-profile-table .profile-label,
+.searchresults .searchresult-breadcrumb a,
+.articlelink a, 
+.articlelink a:hover, 
+.articlelink a:active, 
+.articlelink a:link, 
+.articlelink a:focus,
+.articlelink a:visited, #blog-items a,  
+.podcast-link a, 
+.related-info p a, .commentHead a
+{
+	color:#93A445 !important;
+}
+
+.newsbox 
+{
+	border-top:4px solid #660000;
+}
+
+.newsSmall
+{
+	border-top:4px solid #660000;
+}
+
+.sf-menu li,
+.sf-navbar,
+.sf-navbar li li,  
+.sf-navbar li.sfHover,
+.sf-navbar li li.current,
+.sf-navbar a:focus,  
+.sf-navbar a:active,
+.sf-navbar li.current, .sf-navbar li:hover
+{
+	background:#660000 !important;
+}
+
+#main ul#uclnavbar{
+	background-color:transparent !important;
+}
+
+#corp-identity-mid-green
+{
+	background-color:#F66733;
+}
+

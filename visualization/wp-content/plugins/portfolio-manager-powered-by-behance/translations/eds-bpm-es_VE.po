@@ -1,0 +1,851 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-08-28 19:34+0530\n"
+"PO-Revision-Date: 2017-05-18 13:35+0530\n"
+"Last-Translator: Eleopard Design Studios <contact@eleopard.in>\n"
+"Language-Team: \n"
+"Language: es_VE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../eclipse_php/workspaces/wordpress/edsbportman\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .externalToolBuilders\n"
+"X-Poedit-SearchPathExcluded-1: .settings\n"
+"X-Poedit-SearchPathExcluded-2: .svn\n"
+"X-Poedit-SearchPathExcluded-3: translations\n"
+
+#: classes/eds-bpm-admin.php:24 layouts/eds-bpm-projects.php:26
+msgid "Portfolio Manager - Projects"
+msgstr "Portfolio Manager - Proyectos"
+
+#: classes/eds-bpm-admin.php:25 classes/eds-bpm-vcextension.php:98
+msgid "Portfolio Manager"
+msgstr "Portfolio Manager"
+
+#: classes/eds-bpm-admin.php:35 layouts/eds-bpm-projects.php:29
+msgid "Portfolio Manager - New Project"
+msgstr "Portfolio Manager - Nuevo proyecto"
+
+#: classes/eds-bpm-admin.php:36 layouts/eds-bpm-categories.php:27
+#: layouts/eds-bpm-projects.php:27
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: classes/eds-bpm-admin.php:46 layouts/eds-bpm-categories.php:26
+msgid "Portfolio Manager - Categories"
+msgstr "Portfolio Manager - Categorías"
+
+#: classes/eds-bpm-admin.php:47 includes/eds-bpm-tinymce-popup.php:70
+msgid "Categories"
+msgstr "Categorías"
+
+#: classes/eds-bpm-admin.php:57
+msgid "Portfolio Manager - Settings"
+msgstr "Portfolio Manager - Ajustes"
+
+#: classes/eds-bpm-admin.php:58
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/eds-bpm-behance.php:27
+msgid "Unable to retrieve Project from Behance."
+msgstr "No se pudo cargar el proyecto desde Behance."
+
+#: classes/eds-bpm-behance.php:33
+msgid ""
+"You need to enter the Behance API Key in Portfolio Manager > Settings > "
+"General. Get one from"
+msgstr ""
+"Es necesario introducir la API Key de Behance en Portfolio Manager > Ajustes "
+"> General. Conseguir una"
+
+#: classes/eds-bpm-behance.php:38
+msgid "Project content retrieved successfully."
+msgstr "El proyecto fue cargado con éxito."
+
+#: classes/eds-bpm-category-manager.php:156
+msgid "Category saved successfully."
+msgstr "Categoría guardada con éxito."
+
+#: classes/eds-bpm-category-manager.php:158
+msgid "Problem in saving category."
+msgstr "Hubo un problema guardando la categoría."
+
+#: classes/eds-bpm-category-manager.php:169
+msgid "Category published successfully."
+msgstr "Categoría publicada con éxito."
+
+#: classes/eds-bpm-category-manager.php:171
+msgid "Problem in publishing category."
+msgstr "Hubo un problema publicando la categoría."
+
+#: classes/eds-bpm-category-manager.php:182
+msgid "Category unpublished successfully."
+msgstr "La categoría se pudo quitar de publicación con éxito."
+
+#: classes/eds-bpm-category-manager.php:184
+msgid "Problem in unpublishing category."
+msgstr "Hubo un problema quitando de publicación la categoría."
+
+#: classes/eds-bpm-category-manager.php:195
+msgid "Category deleted successfully."
+msgstr "Categoría borrada con éxito."
+
+#: classes/eds-bpm-category-manager.php:197
+msgid "Problem in deleting category."
+msgstr "Hubo un problema borrando la categoría."
+
+#: classes/eds-bpm-category-manager.php:208
+msgid "Category removed successfully."
+msgstr "Categoría removida con éxito."
+
+#: classes/eds-bpm-category-manager.php:210
+msgid "Problem in removing category."
+msgstr "Hubo un problema removiendo la categoría."
+
+#: classes/eds-bpm-configuration-manager.php:66
+msgid "General"
+msgstr "General"
+
+#: classes/eds-bpm-configuration-manager.php:69
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: classes/eds-bpm-configuration-manager.php:74
+msgid "Behance API Key"
+msgstr "Behance API Key"
+
+#: classes/eds-bpm-configuration-manager.php:80
+msgid "Results per Page in Backend"
+msgstr "Resultados por página en backend"
+
+#: classes/eds-bpm-configuration-manager.php:86
+msgid "Enable Pretty URL"
+msgstr "Habilitar Pretty URL"
+
+#: classes/eds-bpm-configuration-manager.php:99
+msgid "General configurations related to Portfolio Manager."
+msgstr "Configuraciones generales relacionadas a Portfolio Manager."
+
+#: classes/eds-bpm-configuration-manager.php:146
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: classes/eds-bpm-configuration-manager.php:149
+msgid "Advanced Plugin Settings"
+msgstr "Ajustes avanzados del plugin"
+
+#: classes/eds-bpm-configuration-manager.php:154
+msgid "Project Background Color"
+msgstr "Color de fondo del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:160
+msgid "Show Project Title"
+msgstr "Mostrar título del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:166
+msgid "Show Creative Fields"
+msgstr "Mostrar campos creativos"
+
+#: classes/eds-bpm-configuration-manager.php:172
+msgid "Show Project By"
+msgstr "Mostrar autor(es) del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:178
+msgid "Show About Project"
+msgstr "Mostrar descripción del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:184
+msgid "Show Publish Date"
+msgstr "Mostrar fecha de publicación"
+
+#: classes/eds-bpm-configuration-manager.php:190
+msgid "Show Total Project Views"
+msgstr "Mostrar vistas totales del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:196
+msgid "Show Total Project Appreciations"
+msgstr "Mostrar todas las calificaciones del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:202
+msgid "Show Total Project Comments"
+msgstr "Mostrar todos los comentarios del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:208
+msgid "Show Project Tags"
+msgstr "Mostrar etiquetas del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:214
+msgid "Show Project Tools Used"
+msgstr "Mostrar herramientas utilizadas en el proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:220
+msgid "Show Project Copyright Info"
+msgstr "Mostrar información de Copyright del proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:226
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: classes/eds-bpm-project-manager.php:400
+msgid "Project saved successfully."
+msgstr "Proyecto guardado con éxito."
+
+#: classes/eds-bpm-project-manager.php:402
+msgid "Problem in saving project"
+msgstr "Hubo un problema guardando el proyecto"
+
+#: classes/eds-bpm-project-manager.php:414
+msgid "Project published successfully."
+msgstr "Proyecto publicado con éxito."
+
+#: classes/eds-bpm-project-manager.php:416
+msgid "Problem in publishing Project."
+msgstr "Hubo un problema publicando el proyecto."
+
+#: classes/eds-bpm-project-manager.php:429
+msgid "Project unpublished successfully."
+msgstr "Proyecto quitado de publicación con éxito."
+
+#: classes/eds-bpm-project-manager.php:431
+msgid "Problem in unpublishing Project."
+msgstr "Hubo un problema quitando de publicación el proyecto."
+
+#: classes/eds-bpm-project-manager.php:443
+msgid "Project updated successfully."
+msgstr "Proyecto actualizado con éxito."
+
+#: classes/eds-bpm-project-manager.php:445
+msgid "Problem in updation of Project."
+msgstr "Hubo un problema actualizando el proyecto."
+
+#: classes/eds-bpm-project-manager.php:474
+msgid "Project synchronized successfully."
+msgstr "Proyecto sincronizado con éxito."
+
+#: classes/eds-bpm-project-manager.php:476
+msgid "Problem in synchronizing Project."
+msgstr "Hubo un problema sincronizando el proyecto."
+
+#: classes/eds-bpm-project-manager.php:489
+msgid "Project deleted successfully."
+msgstr "Proyecto borrado con éxito."
+
+#: classes/eds-bpm-project-manager.php:491
+msgid "Problem in deleting Project."
+msgstr "Hubo un problema borrando el proyecto."
+
+#: classes/eds-bpm-project-manager.php:503
+msgid "Project removed successfully."
+msgstr "Proyecto removido con éxito."
+
+#: classes/eds-bpm-project-manager.php:505
+msgid "Problem in removing Project."
+msgstr "Hubo un problema removiendo el proyecto."
+
+#: includes/eds-bpm-tinymce-popup.php:35
+msgid "Portfolio Manager - Layout Generator"
+msgstr "Portfolio Manager - Generador de Layout"
+
+#: includes/eds-bpm-tinymce-popup.php:42
+msgid "Layout Type"
+msgstr "Tipo de Layout"
+
+#: includes/eds-bpm-tinymce-popup.php:45
+msgid "--Select--"
+msgstr "--Seleccionar--"
+
+#: includes/eds-bpm-tinymce-popup.php:46
+msgid "Single Project"
+msgstr "Un proyecto"
+
+#: includes/eds-bpm-tinymce-popup.php:47
+msgid "Single Category"
+msgstr "Una categoría"
+
+#: includes/eds-bpm-tinymce-popup.php:48
+msgid "Multiple Categories"
+msgstr "Multiples categorías"
+
+#: includes/eds-bpm-tinymce-popup.php:54 layouts/eds-bpm-project-default.php:24
+#: layouts/eds-bpm-project-default.php:113
+#: layouts/eds-bpm-project-default.php:118
+#: layouts/eds-bpm-project-default.php:124
+#: layouts/eds-bpm-project-default.php:72
+msgid "Project"
+msgstr "Proyecto"
+
+#: includes/eds-bpm-tinymce-popup.php:62
+#: layouts/eds-bpm-project-default.php:202
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/eds-bpm-tinymce-popup.php:80
+msgid "Basic Settings"
+msgstr "Ajustes básicos"
+
+#: includes/eds-bpm-tinymce-popup.php:84
+msgid "Show Only Featured"
+msgstr "Mostrar solamente favoritos"
+
+#: includes/eds-bpm-tinymce-popup.php:99
+msgid "Mosaic Style"
+msgstr "Estilo de mosaico"
+
+#: includes/eds-bpm-tinymce-popup.php:102
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: includes/eds-bpm-tinymce-popup.php:103
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: includes/eds-bpm-tinymce-popup.php:104
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: includes/eds-bpm-tinymce-popup.php:105
+msgid "Style 4"
+msgstr "Estilo 4"
+
+#: includes/eds-bpm-tinymce-popup.php:106
+msgid "Style 5"
+msgstr "Estilo 5"
+
+#: includes/eds-bpm-tinymce-popup.php:112
+msgid "Margin between Tiles (in pixel)"
+msgstr "Margen entre elementos (en pixeles)"
+
+#: includes/eds-bpm-tinymce-popup.php:124
+msgid "Show Category Title"
+msgstr "Mostrar título de la categoría"
+
+#: includes/eds-bpm-tinymce-popup.php:139
+msgid "Show Category Description"
+msgstr "Mostrar descripción de la categoría"
+
+#: includes/eds-bpm-tinymce-popup.php:154
+msgid "Show Category Image"
+msgstr "Mostrar imagen de la categoría"
+
+#: includes/eds-bpm-tinymce-popup.php:170
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: includes/eds-bpm-tinymce-popup.php:173
+msgid "Default"
+msgstr "Defecto"
+
+#: includes/eds-bpm-tinymce-popup.php:174
+msgid "Project Name"
+msgstr "Nombre del proyecto"
+
+#: includes/eds-bpm-tinymce-popup.php:175
+msgid "Creation Date on Behance"
+msgstr "Fecha de creación en Behance"
+
+#: includes/eds-bpm-tinymce-popup.php:181
+msgid "Ordering"
+msgstr "Orden"
+
+#: includes/eds-bpm-tinymce-popup.php:184
+msgid "Ascending"
+msgstr "Ascendiente"
+
+#: includes/eds-bpm-tinymce-popup.php:185
+msgid "Descending"
+msgstr "Descendiente"
+
+#: includes/eds-bpm-tinymce-popup.php:193
+msgid "Tab Settings"
+msgstr "Ajustes de pestañas"
+
+#: includes/eds-bpm-tinymce-popup.php:197
+msgid "Unselected Background Color"
+msgstr "Color de fondo no seleccionado"
+
+#: includes/eds-bpm-tinymce-popup.php:215
+msgid "Unselected Text Color"
+msgstr "Color de texto no seleccionado"
+
+#: includes/eds-bpm-tinymce-popup.php:233
+msgid "Selected Background Color"
+msgstr "Color de fondo seleccionado"
+
+#: includes/eds-bpm-tinymce-popup.php:251
+msgid "Selected Text Color"
+msgstr "Color de texto seleccionado"
+
+#: includes/eds-bpm-tinymce-popup.php:269
+msgid "Hover Background Color"
+msgstr "Color de fondo señalado"
+
+#: includes/eds-bpm-tinymce-popup.php:287
+msgid "Hover Text Color"
+msgstr "Color de texto señalado"
+
+#: layouts/eds-bpm-categories.php:29
+msgid "Portfolio Manager - New Category"
+msgstr "Portfolio Manager - Nueva categoría"
+
+#: layouts/eds-bpm-categories.php:31
+msgid "Portfolio Manager - Edit Category"
+msgstr "Portfolio Manager - Editar categoría"
+
+#: layouts/eds-bpm-category-default.php:19
+#: layouts/eds-bpm-project-default.php:19
+msgid "Filters:"
+msgstr "Filtros:"
+
+#: layouts/eds-bpm-category-default.php:24
+#: layouts/eds-bpm-category-default.php:88
+#: layouts/eds-bpm-category-default.php:93
+#: layouts/eds-bpm-category-default.php:99 layouts/eds-bpm-category-edit.php:26
+msgid "Category Name"
+msgstr "Nombre de categoría"
+
+#: layouts/eds-bpm-category-default.php:30
+#: layouts/eds-bpm-project-default.php:48 layouts/eds-bpm-project-edit.php:129
+msgid "Status:"
+msgstr "Estado:"
+
+#: layouts/eds-bpm-category-default.php:33 layouts/eds-bpm-multi-cat.php:9
+#: layouts/eds-bpm-project-default.php:51
+msgid "All"
+msgstr "Todo"
+
+#: layouts/eds-bpm-category-default.php:34
+#: layouts/eds-bpm-project-default.php:52 layouts/eds-bpm-project-edit.php:132
+msgid "Published"
+msgstr "Publicado"
+
+#: layouts/eds-bpm-category-default.php:35
+#: layouts/eds-bpm-project-default.php:53 layouts/eds-bpm-project-edit.php:133
+msgid "Unpublished"
+msgstr "No publicado"
+
+#: layouts/eds-bpm-category-default.php:36
+#: layouts/eds-bpm-project-default.php:55 layouts/eds-bpm-project-edit.php:134
+msgid "Deleted"
+msgstr "Eliminado"
+
+#: layouts/eds-bpm-category-default.php:44
+#: layouts/eds-bpm-project-default.php:63
+msgid "Search"
+msgstr "Buscar"
+
+#: layouts/eds-bpm-category-default.php:45
+#: layouts/eds-bpm-project-default.php:64
+msgid "Clear"
+msgstr "Limpiar"
+
+#: layouts/eds-bpm-category-default.php:57
+#: layouts/eds-bpm-project-default.php:76
+msgid "New"
+msgstr "Nuevo"
+
+#: layouts/eds-bpm-category-default.php:60
+#: layouts/eds-bpm-project-default.php:79
+msgid "Publish"
+msgstr "Publicar"
+
+#: layouts/eds-bpm-category-default.php:63
+#: layouts/eds-bpm-project-default.php:82
+msgid "Unpublish"
+msgstr "Despublicar"
+
+#: layouts/eds-bpm-category-default.php:67
+#: layouts/eds-bpm-project-default.php:89
+msgid "Trash"
+msgstr "Eliminar"
+
+#: layouts/eds-bpm-category-default.php:71
+#: layouts/eds-bpm-project-default.php:93
+msgid "Delete"
+msgstr "Borrar"
+
+#: layouts/eds-bpm-category-default.php:104
+#: layouts/eds-bpm-category-edit.php:65
+msgid "Description"
+msgstr "Descripción"
+
+#: layouts/eds-bpm-category-default.php:110
+#: layouts/eds-bpm-category-default.php:115
+#: layouts/eds-bpm-category-default.php:121
+msgid "Creation Date"
+msgstr "Fecha de creación"
+
+#: layouts/eds-bpm-category-default.php:129
+#: layouts/eds-bpm-category-default.php:134
+#: layouts/eds-bpm-category-default.php:140
+#: layouts/eds-bpm-project-default.php:132
+#: layouts/eds-bpm-project-default.php:137
+#: layouts/eds-bpm-project-default.php:143
+msgid "Status"
+msgstr "Estado"
+
+#: layouts/eds-bpm-category-edit.php:16 layouts/eds-bpm-project-edit.php:36
+msgid "Save & Close"
+msgstr "Guardar y cerrar"
+
+#: layouts/eds-bpm-category-edit.php:18 layouts/eds-bpm-project-edit.php:30
+#: layouts/eds-bpm-project-edit.php:39
+msgid "Close"
+msgstr "Cerrar"
+
+#: layouts/eds-bpm-category-edit.php:51
+msgid "Category Icon"
+msgstr "Ícono de categoría"
+
+#: layouts/eds-bpm-category-edit.php:59
+msgid "Upload"
+msgstr "Cargar"
+
+#: layouts/eds-bpm-multi-cat.php:30 layouts/eds-bpm-multi-cat.php:32
+#: layouts/eds-bpm-multi-cat.php:36 layouts/eds-bpm-multi-cat.php:38
+#: layouts/eds-bpm-single-cat.php:39 layouts/eds-bpm-single-cat.php:41
+#: layouts/eds-bpm-single-cat.php:45 layouts/eds-bpm-single-cat.php:47
+msgid "View Project"
+msgstr "Ver proyecto"
+
+#: layouts/eds-bpm-project-default.php:30 layouts/eds-bpm-project-edit.php:107
+msgid "Categories:"
+msgstr "Categorías:"
+
+#: layouts/eds-bpm-project-default.php:54
+#: layouts/eds-bpm-project-default.php:85
+msgid "Featured"
+msgstr "Destacado(s)"
+
+#: layouts/eds-bpm-project-default.php:97
+msgid "Sync"
+msgstr "Sincronizar"
+
+#: layouts/eds-bpm-project-default.php:148 layouts/eds-bpm-project-edit.php:59
+#: layouts/eds-bpm-project-edit.php:87
+msgid "Behance Project ID"
+msgstr "ID del proyecto en Behance"
+
+#: layouts/eds-bpm-project-default.php:154
+#: layouts/eds-bpm-project-default.php:159
+#: layouts/eds-bpm-project-default.php:165
+msgid "Date of Creation(Behance)"
+msgstr "Fecha de creación (Behance)"
+
+#: layouts/eds-bpm-project-edit.php:71
+msgid "Having problems? Please refer to our"
+msgstr "¿Tienes un problema? Por favor mira nuestra"
+
+#: layouts/eds-bpm-project-edit.php:71
+msgid "Documentation"
+msgstr "Documentación"
+
+#: layouts/eds-bpm-project-edit.php:78
+msgid "Project ID:"
+msgstr "ID del proyecto:"
+
+#: layouts/eds-bpm-projects.php:31
+msgid "Portfolio Manager - Edit Project"
+msgstr "Portfolio Manager - Editar Proyecto"
+
+#: layouts/eds-bpm-projects.php:17 layouts/eds-bpm-categories.php:16
+#: classes/eds-bpm-configuration-manager.php:464
+msgid "CURL module is not enabled."
+msgstr "El módulo CURL no está activado"
+
+#: classes/eds-bpm-behance.php:34
+msgid "here"
+msgstr "aquí"
+
+#: classes/eds-bpm-vcextension.php:92
+msgid "Single Project Layout"
+msgstr "Layout de un Proyecto"
+
+#: classes/eds-bpm-vcextension.php:93
+msgid "Layout to display single project"
+msgstr "Diseño para mostrar un solo proyecto"
+
+#: classes/eds-bpm-vcextension.php:130
+msgid "Single Category Layout"
+msgstr "Layout de una Categoría"
+
+#: classes/eds-bpm-vcextension.php:131
+msgid "Layout to display single category"
+msgstr "Diseño para mostrar una sola categoría "
+
+#: classes/eds-bpm-vcextension.php:256
+msgid "Multiple Categories Layout"
+msgstr "Layout de Múltiples Categorías"
+
+#: classes/eds-bpm-vcextension.php:257
+msgid "Layout to display multiple categories"
+msgstr "Diseño para mostrar múltiples categorías"
+
+#: classes/eds-bpm-loader.php:290 classes/eds-bpm-loader.php:296
+msgid ""
+"Portfolio Manager - Powered By Behance::: PHP version should be equal or "
+"higher than 5.3.0."
+msgstr ""
+"Portfolio Manager - Motorizado Por Behance::: Versión de PHP debería ser "
+"igual o mayor a 5.3.0."
+
+#: classes/eds-bpm-admin.php:37
+msgid "All Projects"
+msgstr "Todos los proyectos"
+
+#: classes/eds-bpm-configuration-manager.php:97
+msgid "View Project on Behance"
+msgstr "Ver Proyecto en Behance"
+
+#: classes/eds-bpm-configuration-manager.php:103
+msgid "Open Project in New Tab"
+msgstr "Abrir proyecto en Nueva Pestaña"
+
+#: classes/eds-bpm-configuration-manager.php:469
+msgid "Navigation Buttons"
+msgstr "Botones de navegación"
+
+#: classes/eds-bpm-configuration-manager.php:472
+msgid "Navigation Settings"
+msgstr "Ajustes de navegación"
+
+#: classes/eds-bpm-configuration-manager.php:477
+msgid "Show Previous/Next Buttons"
+msgstr "Mostrar botones Anterior/Siguiente"
+
+#: classes/eds-bpm-configuration-manager.php:483
+msgid "Project Order"
+msgstr "Orden del Proyecto"
+
+#: classes/eds-bpm-configuration-manager.php:489
+msgid "Button Style"
+msgstr "Estilo del Botón"
+
+#: classes/eds-bpm-configuration-manager.php:495
+msgid "Button Position"
+msgstr "Posición del Botón"
+
+#: classes/eds-bpm-configuration-manager.php:501
+msgid "Show Button Arrows"
+msgstr "Mostrar Flechas del botón"
+
+#: classes/eds-bpm-configuration-manager.php:507
+msgid "Previous Button Text"
+msgstr "Texto del Botón Anterior"
+
+#: classes/eds-bpm-configuration-manager.php:513
+msgid "Previous Button Text Color"
+msgstr "Color del Texto del Botón Anterior"
+
+#: classes/eds-bpm-configuration-manager.php:519
+msgid "Previous Button Background Color"
+msgstr "Color del Fondo del Botón Anterior"
+
+#: classes/eds-bpm-configuration-manager.php:525
+msgid "Next Button Text"
+msgstr "Texto del Botón Siguiente"
+
+#: classes/eds-bpm-configuration-manager.php:531
+msgid "Next Button Text Color"
+msgstr "Color del Texto del Botón Siguiente"
+
+#: classes/eds-bpm-configuration-manager.php:537
+msgid "Next Button Background Color"
+msgstr "Color del Fondo del Botón Siguiente"
+
+#: classes/eds-bpm-configuration-manager.php:547
+msgid "Navigation buttons related settings for Single Project View."
+msgstr ""
+"Ajustes relacionados a botones de navegación para Vista de Un Proyecto."
+
+#: classes/eds-bpm-loader.php:314
+msgid "User id not set"
+msgstr "ID de Usuario no establecido"
+
+#: classes/eds-bpm-loader.php:343
+msgid "Insufficient data passed. Please try again."
+msgstr "Datos enviados insuficientes. Por favor, intente otra vez."
+
+#: classes/eds-bpm-loader.php:354
+msgid "Problem in saving data. Please try again."
+msgstr "Problema guardando datos. Por favor, intente otra vez."
+
+#: js/eds-bpm-admin.js:47
+msgid "Choose Image"
+msgstr "Seleccione Imagen"
+
+#: js/eds-bpm-admin.js:89
+msgid "Please select atleast one Category"
+msgstr "Por favor, seleccione al menos una Categoría"
+
+#: js/eds-bpm-admin.js:111
+msgid "Are you sure, you wish to delete the selected category(s)?"
+msgstr "¿Está seguro de que desea eliminar la categoría seleccionada?"
+
+#: js/eds-bpm-admin.js:126
+msgid "Are you sure, you wish to permanently delete the selected category?"
+msgstr ""
+"¿Está seguro de que desea eliminar permanentemente la categoría seleccionada?"
+
+#: js/eds-bpm-admin.js:183
+msgid "Please select atleast one Project"
+msgstr "Por favor, seleccione al menos un Proyecto"
+
+#: js/eds-bpm-admin.js:218
+msgid "Are you sure, you wish to delete the selected project(s)?"
+msgstr "¿Está seguro de que desea eliminar los proyectos seleccionados?"
+
+#: js/eds-bpm-admin.js:233
+msgid "Are you sure, you wish to permanently delete the selected project(s)?"
+msgstr ""
+"¿Está seguro de que desea eliminar permanentemente los proyectos "
+"seleccionados?"
+
+#: js/eds-bpm-admin.js:334
+msgid "Please provide user id."
+msgstr "Por favor provea el ID de Usuario."
+
+#: js/eds-bpm-admin.js:340
+msgid "Importing Projects..."
+msgstr "Importando Proyectos..."
+
+#: js/eds-bpm-admin.js:360
+msgid "Project(s) Imported."
+msgstr "Proyecto(s) Importados."
+
+#: js/eds-bpm-admin.js:367
+msgid ""
+"Unable to import projects, please check the Behance User Id and Behance API "
+"key in settings."
+msgstr ""
+"No se pueden importar los proyectos, por favor compruebe en los ajustes que "
+"el ID de Usuario de Behance y la API Key de Behance sean correctos."
+
+#: js/eds-bpm-admin.js:378
+msgid "A problem occured while importing projects. Please try again later."
+msgstr ""
+"Ocurrió un problema importando los proyectos. Por favor, intente otra vez "
+"más tarde."
+
+#: js/eds-bpm-admin.js:409
+msgid "No Project available to save. kindly import the projects first."
+msgstr ""
+"No hay Proyectos disponibles para guardar. Por favor, importe los proyectos "
+"primero."
+
+#: js/eds-bpm-admin.js:425
+msgid "Saving Projects, It might take some time..."
+msgstr "Guardando Proyectos, puede llevar un tiempo..."
+
+#: js/eds-bpm-admin.js:445
+msgid "Projects saved successfully, refreshing page now."
+msgstr "Proyectos guardados exitosamente, actualizando página ahora. "
+
+#: js/eds-bpm-admin.js:452
+msgid ""
+"Problem occured while saving projects. Please try again after some time. If "
+"the problem persist, please"
+msgstr ""
+"Ocurrió un problema guardando los proyectos. Por favor, intente otra vez más "
+"tarde. Si el problema persiste, por favor"
+
+#: js/eds-bpm-admin.js:452
+msgid "contact plugin administrator"
+msgstr "contacte al administrador del plugin"
+
+#: js/eds-bpm-admin.js:477
+msgid "Please enter Behance Project ID"
+msgstr "Por favor ingrese el ID del Proyecto en Behance"
+
+#: js/eds-bpm-admin.js:479
+msgid "Please enter a numeric value"
+msgstr "Por favor ingrese un valor numérico"
+
+#: js/eds-bpm-tinymce.js:5
+msgid "Portfolio Manager - Powered by Behance"
+msgstr "Portfolio Manager - Producido por Behance"
+
+#: js/eds-bpm-tinymce.js:28
+msgid "Eleopard Design Studios Pvt. Ltd."
+msgstr "Eleopard Design Studios Pvt. Ltd."
+
+#: layouts/eds-bpm-project-default.php:21
+msgid "Import Projects from Behance"
+msgstr "Importar Proyectos desde Behance"
+
+#: layouts/eds-bpm-project-default.php:30
+msgid "Behance User Id"
+msgstr "ID de Usuario en Behance"
+
+#: layouts/eds-bpm-project-default.php:37
+msgid "Default Category:"
+msgstr "Categoría Predeterminada:"
+
+#: layouts/eds-bpm-project-default.php:50
+msgid "Projects"
+msgstr "Proyectos"
+
+#: layouts/eds-bpm-project-default.php:57
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: layouts/eds-bpm-project-default.php:58
+msgid "Import Projects"
+msgstr "Importar Proyectos"
+
+#: layouts/eds-bpm-project-default.php:59
+msgid "Save"
+msgstr "Guardar"
+
+#: layouts/eds-bpm-project-default.php:148
+msgid "Import"
+msgstr "Importar"
+
+#: layouts/eds-bpm-project-preview.php:175
+msgid "Basic Info"
+msgstr "Información Básica"
+
+#: layouts/eds-bpm-project-preview.php:179
+msgid "Published:"
+msgstr "Publicado:"
+
+#: layouts/eds-bpm-project-preview.php:182
+msgid "Credits"
+msgstr "Créditos"
+
+#: layouts/eds-bpm-project-preview.php:208
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: layouts/eds-bpm-project-preview.php:216
+msgid "Tools Used"
+msgstr "Herramientas utilizadas"
+
+#: layouts/eds-bpm-project-preview.php:223
+msgid "Attribution"
+msgstr "Atribución"
+
+#: layouts/eds-bpm-project-preview.php:226
+msgid "Non Commercial"
+msgstr "No Comercial"
+
+#: layouts/eds-bpm-project-preview.php:229
+msgid "No Derivatives"
+msgstr "Sin Derivadas"
+
+#: layouts/eds-bpm-project-preview.php:232
+msgid "Share Alike"
+msgstr "Compartir Igual"
+
+#: layouts/eds-bpm-project-preview.php:235
+msgid "No Use"
+msgstr "Sin Uso"
+
+#: layouts/eds-bpm-project-preview.php:296
+msgid "About"
+msgstr "Sobre"

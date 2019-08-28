@@ -1,0 +1,40 @@
+/* Category Style */
+
+#eds-bpm-category-header{
+	float: left;
+	width: 100%;	
+	background: #f6f6f6;
+	border: 1px solid #dddddd;
+}
+
+.cat-img-wrapper{
+	display: inline-block;
+	padding: 15px;
+	float: left;
+	width: 25%;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.cat-img-wrapper img{
+	max-width: 100%;
+	height: auto;
+}
+
+.cat-content-wrapper{
+	display: inline-block;
+	padding: 15px;
+	float: left;
+	width: 65%;
+	box-sizing: border-box;
+}
+
+.cat-title-wrapper{
+	font-size: 20px;
+}
+
+@media only screen and (max-width: 479px){
+	.cat-img-wrapper, .cat-content-wrapper{
+		width: 100%;
+	}
+}

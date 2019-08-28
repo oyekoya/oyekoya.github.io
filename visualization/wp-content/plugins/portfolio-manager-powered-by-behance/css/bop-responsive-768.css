@@ -1,0 +1,38 @@
+#bop-project-right{
+	right: unset;
+	left: 0;
+	width: 100%;
+}
+#bop-project-left{
+	margin-right: 0;
+}
+#bop-project-info-right , .bpm-published-on{
+	display: none;
+}
+.bpm-top-info-menu-dropdown-wrapper{
+	display: block;
+}
+.bop-project-right{
+	padding: 8px 2px;
+}
+.bpm-title-right{
+	font-size: 20px;
+	padding-bottom: 6px;
+	padding-top: 8px;
+	white-space: nowrap;
+	overflow-x: hidden;
+	text-overflow: ellipsis;
+}
+#bop-project-about-right #bop-category, #bop-project-about-right #stats-top{
+	font-size: 13px;
+	padding: 2px 20px;
+	white-space: nowrap;
+	overflow-x: hidden;
+	text-overflow: ellipsis;
+}
+#bop-project-left{
+	margin-top: 162px;
+}
+.sidebar-group{
+	border-radius: 0;
+}

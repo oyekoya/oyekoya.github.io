@@ -1,0 +1,9 @@
+This free (GPL) Scripts and CSS get used in Portfolio Manager - Powered By Behance
+Thanks to the developers.
+
+Scripts
+http://www.bootstrap-switch.org/
+isotope.pkgd.min.js
+
+bootstrap package
+font awesome

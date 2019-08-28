@@ -1,0 +1,52 @@
+
+#answers div, #mistake, .answerList input{
+	display:none;
+}
+
+#answers #introContainer{
+	display:block;
+}
+
+.testButtonA, #mistake{
+	width:140px;
+	height:50px;
+	font-size:18px;
+	font-family:arial, sans-serif;
+}
+
+#mistake{
+	margin-top:150px;
+	width:250px;
+	height:35px;
+	font-size:12px;
+}
+
+.answerList label{
+	width:230px;
+	display:block;
+	float:left;
+}
+.answerList input{
+	float:left
+}
+#baroncohenForm label{
+	display:block;
+	width:400px;
+	float:left;
+}
+#baroncohenForm input{
+	float:left;
+	width:20px;
+}
+
+#col3_content form p{
+	padding:0;
+}
+.testButtonB{
+	float:right;
+	margin-right:20px;
+	margin-top:20px;
+	width:200px;
+	height:50px;
+	font-size:18px;
+}

@@ -1,0 +1,239 @@
+.eds-bpm-add-row-space{
+	margin-top: 10px;
+	margin-bottom: 10px;	
+}
+
+.no-padding{
+	padding: 0;
+}
+
+.table > tbody > tr > td, .table > thead > tr > th{
+	padding: 15px;
+}
+
+.table {
+    margin-bottom: 0px;
+}
+
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    border-top: 0;
+}
+
+select{
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding-right: 20px !important;
+}
+
+.eds-bpm-filters .col-md-4{
+	max-width: 300px;
+}
+
+.eds-bpm-filters .col-md-6{
+	max-width: 200px;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    cursor: pointer;
+}
+
+.eds-bpm-icon-red{
+	color: #BD362F;
+}
+
+.eds-bpm-icon-green{
+	color: #51A351;
+}
+
+.eds-bpm-icon-featured{
+	color: #F89406;
+}
+
+.bpm-project-column{
+	width: 45% !important;
+}
+
+.eds-bpm-project-search-form{
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6%;
+}
+
+.eds-bpm-information h5{
+	float: left;
+	text-align: center;
+	width: 100%;
+	font-weight:normal;
+}
+
+.eds-bpm-project-thumbnail-backend img{
+	max-width: 94px;
+	border-radius: 5px;
+	position: relative;
+	height: auto;
+	margin-right: 10px;
+}
+
+#eds-bpm-options-wrapper{
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	border-radius: 5px;
+	margin-top:60px;
+	margin-bottom: 60px;
+	background: #ffffff;
+	padding: 10px;
+	-moz-box-shadow: 2px 0px 6px 0px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 2px 0px 6px 0px rgba(0, 0, 0, 0.1);
+	box-shadow: 2px 0px 6px 0px rgba(0, 0, 0, 0.1);	
+}
+
+
+.eds-bpm-option-backend{
+	border-bottom: 1px solid #c1c1c1;
+	height: 40px;
+}
+
+.radio.btn-group{
+	float: left;
+	padding-top: 0;
+}
+
+.eds-bpm-alert .fa{
+	padding-right: 5px !important;
+} 
+
+.bpm-ipm-project {
+	width: 162px;
+	float: left;
+	margin: 10px;
+	height: 202px;
+	background: #ffffff;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+			box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+
+.bpm-ipm-project img{
+	width: 100%;
+	height: auto;		
+}
+
+#bpm-ipm-search{
+	max-width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px 0;
+	min-height: 194px;
+}
+#bpm-ipm-msg.text-success{
+	color: #8bc24a;
+}
+.bpm-ipm-project-title{
+	padding: 10px;
+	font-weight: 700;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow-x: hidden;
+}
+.bpm-ipm-project-cat{
+	padding: 0 10px;
+}
+.bpm-ipm-project-cat select{
+	width: 100%;
+}
+#bpm-ipm-search select{
+	height: 34px;
+}
+#bpm-ipm-projects{
+	border-top: 1px solid #e5e5e5;
+	background: #f6f6f6;
+}
+#bpm-ipm .modal-body{
+	padding-bottom: 0;
+	padding-top: 0;
+}
+#bpm-ipm-projects{
+	max-height: 500px !important;
+	overflow-y: auto;
+	background: #f6f6f6;
+}
+#bpm-ipm-projects-reset{
+	float: right;
+	color: #a8a8a8;
+	font-weight: 700;
+	vertical-align: unset;
+	padding: 10px 0;
+	margin-top: -12px;
+}
+#bpm-ipm-projects-reset:after{
+	content: "Reset";
+	font-size: 14px;
+	margin-left: 4px;
+}
+#bpm-ipm-msg{
+	display: block;
+	text-align: center;
+	font-weight: 600;
+}
+#bpm-ipm-msg.text-danger{
+	color: #ff0000;
+}
+.bpm-ipm-msg-lg{
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 400;
+	min-height: 194px;
+	display: block;
+	padding: 120px 0 50px 0;
+	text-align: center;
+	color: #333333;
+}
+.bpm-ipm-loading:after{
+	content: " ";
+	width: 100%;
+	height: 100%;
+	border-radius: 40px;
+	background-color: #dc2d0a;
+	-webkit-animation: scaleout 1.0s infinite ease-in-out;
+	animation: scaleout 1.0s infinite ease-in-out;
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	top: 40px;
+	left: 50%;
+	margin-left: -30px;
+}
+@-webkit-keyframes scaleout {
+	0% {
+		-webkit-transform:scale(0)
+	}
+	100% {
+		-webkit-transform:scale(1);
+		opacity:0
+	}
+}
+@keyframes scaleout {
+	0% {
+		-webkit-transform:scale(0);
+		transform:scale(0)
+	}
+	100% {
+		-webkit-transform:scale(1);
+		transform:scale(1);
+		opacity:0
+	}
+}
+@media only screen and (max-width: 767px) {
+	#bpm-ipm-projects{
+		max-height: 300px !important;
+	}
+	.bpm-ipm-project{
+		float: none;
+		margin-left: auto;
+		margin-right: auto;
+		height: 210px;
+	}
+}

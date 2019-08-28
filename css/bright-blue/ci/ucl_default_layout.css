@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/**
+ * "Yet Another Multicolumn Layout" - (X)HTML/CSS Framework
+ *
+ * (en) central stylesheet - layout example "3col_column_dividers"
+ * (de) Zentrales Stylesheet - Beispiellayout "3col_column_dividers"
+ *
+ * @copyright       Copyright 2005-2009, Dirk Jesse
+ * @license         CC-A 2.0 (http://creativecommons.org/licenses/by/2.0/),
+ *                  YAML-C (http://www.yaml.de/en/license/license-conditions.html)
+ * @link            http://www.yaml.de
+ * @package         yaml
+ * @version         3.1
+ * @revision        $Revision: 343 $
+ * @lastmodified    $Date: 2009-01-19 23:41:32 +0100 (Mo, 19. Jan 2009) $
+ */
+
+/* import core styles | Basis-Stylesheets einbinden */
+@import url(base.css);
+
+/* import screen layout | Screen-Layout einbinden */
+/*@import url(../++resource++yamlnav/nav_shinybuttons.css);*/
+@import url(nav_vlist.css);
+@import url(basemod.css);
+@import url(basemod_gfxborder.css);
+@import url(basemod_column_dividers.css);
+@import url(content.css);
+/*jQuery Styles*/
+@import url(ui.all.css);
+/*UCL Sytles*/
+@import url(ucl_mods.css);
+@import url(ucl_header.css);
+@import url(ucl_breadcrumb_row.css);
+@import url(ucl_textresizer.css);
+@import url(ucl_footer.css);
+@import url(ucl_silva_doc_styling.css);
+@import url(ucl_branding.css);
+/*@import url(../++resource++screen/ucl_gallery.css);*/
+
+/* import print layout | Druck-Layout einbinden */
+/*@import url(../++resource++yamlprint/print_003_draft.css);*/
